@@ -2,24 +2,26 @@
 
 **Thanks for checking out my GitHub profile!**
 
-I am a recent Computer Science graduate and new software engineer, currently looking for software development work in the Austin, TX area, and/or remote work.
+I am a recent Computer Science graduate and new software engineer, currently looking for software development work in the Austin, TX area, and/or remote work. I primarily focus on back-end development, but also enjoy software design and front-end development.
 
+## Current Projects
+- I am currently working on building a front-end graphical user interface for the CountingCards game that I made. I am working in React Native and Javascript, attempting to run on mobile devices, and connecting the React code to my C++ backend linked above.
+- 
 ## Repositories of mine to check out:
 
-- [Counting Cards](https://github.com/gaberull/CountingCards) A blackjack strategy and card counting game with lots of fun features.
-- [Pet Awesome Promotional Email Template](https://github.com/gaberull/gaberull.github.io) Some professional HTML, CSS work I did for Pet-Awesome Pet Products
-  - [Viewable HTML Email Template](https://gaberull.github.io) Email viewable in webpage format
-- Lost and Found Database, Website, and Android Application for the University of Oklahoma
-  - This was my OU Capstone project and the repository is currently private, due to some private keys being hard-coded into the code by a classmate of mine. If you would like to view this project, please ask me to add you as a contributor, and I will be happy to do so.
+- [Counting Cards](https://github.com/gaberull/CountingCards) A blackjack strategy and card counting game with lots of fun features. This was a personal project, completed by myself.
+- [Pet Awesome Promotional Email Template](https://github.com/gaberull/gaberull.github.io) Some professional HTML, CSS work that I did as contract work for Pet-Awesome Pet Products. The company is still using my work, and having great success with it from what I've heard.
+  - [Viewable HTML Email Template](https://gaberull.github.io) Email template viewable in webpage format
 - [Super Sudoku](https://github.com/gaberull/SuperSudoku) A sudoku game with front-end and back-end development
   - Project that I contributed to with a group of people. The goal was to design and add a front-end user interface to a backend Sudoku game
-  
-## Current Projects
-- I am currently working on building a front end graphical user interface for the CountingCards game that I made. I am working in React Native and Javascript, attempting to run on mobile devices, and connecting the React code to my C++ backend linked above.
+- Lost and Found Database, Website, and Android Application for the University of Oklahoma
+  - This was my OU Capstone project and the repository is currently private, due to some private keys being hard-coded into the code by a classmate of mine. 
+  - This project had a large number of contributors, of which I provided the 2nd highest number of commits. 
+  - If you would like to view this project, please ask me to add you as a contributor, and I will be happy to do so.
 
 #### School Assignment Respositories:
 
-These repositories were never really meant to be shown off. They were made while I was learning git and completing various assignments at OU. They may or may not have README files with information about them.
+These repositories were never really meant to be shown off. I made these while I was learning git and completing various assignments at OU. They may or may not have README files with information about them.
 
 - [Project2 Data Structures](https://github.com/gaberull/DataStructProject2) - One of the main projects for my Data Structures class at OU
 
