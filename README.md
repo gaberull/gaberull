@@ -6,7 +6,7 @@ I am a recent Computer Science graduate and new software engineer, currently loo
 
 ## Repositories of mine to check out:
 
-- [Counting Cards](https://github.com/gaberull/CountingCards) A blackjack strategy and card counting game
+- [Counting Cards](https://github.com/gaberull/CountingCards) A blackjack strategy and card counting game with lots of fun features.
 - [Pet Awesome Promotional Email Template](https://github.com/gaberull/gaberull.github.io) Some professional HTML, CSS work I did for Pet-Awesome Pet Products
   - [Viewable HTML Email Template](https://gaberull.github.io) Email viewable in webpage format
 - Lost and Found Database, Website, and Android Application for the University of Oklahoma
