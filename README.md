@@ -7,6 +7,7 @@
 I am a recent Computer Science graduate and new software engineer, currently looking for software development work in the Austin, TX area, and/or remote work. I primarily focus on back-end development, but also enjoy software design and front-end development.
 
 ## Current Projects
+
 - **Front-end and GUI for [CountingCards](https://github.com/gaberull/CountingCards) blackjack game**
   - I am working in React Native and Javascript
   - Attempting to run on iOS and Android as well as a freestanding computer app
@@ -24,9 +25,9 @@ I am a recent Computer Science graduate and new software engineer, currently loo
   - This project had a large number of contributors, of which I provided the 2nd highest number of commits. 
   - If you would like to view this project, please ask me to add you as a contributor, and I will be happy to do so.
 
-#### School Assignment Respositories:
+### School Assignment Respositories:
 
-These repositories were never really meant to be shown off. I made these while I was learning git and completing various assignments at OU. They may or may not have README files with information about them.
+*These repositories were never really meant to be shown off. I made these while I was learning git and completing various assignments at OU. They may or may not have README files with more information about them.*
 
 - [Project2 Data Structures](https://github.com/gaberull/DataStructProject2) - One of the main projects for my Data Structures class at OU
 
