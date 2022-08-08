@@ -7,12 +7,11 @@
 I am a recent Computer Science graduate and new software engineer, currently looking for software development work in the Austin, TX area, and/or remote work. I primarily focus on back-end development, but also enjoy software design and front-end development.
 
 ## Current Projects
-- **Front-end and GUI for CountingCards game**
+- **Front-end and GUI for [CountingCards](https://github.com/gaberull/CountingCards) game**
   - I am currently working on building the front-end for a blackjack game that I made. 
   - I am working in React Native and Javascript
   - Attempting to run on mobile devices as well as a freestanding computer app
   - React and JavaScript code will connect to my backend C++ code
-  - "Counting Cards" respository is linked below.
 
 ## Repositories of mine to check out:
 
