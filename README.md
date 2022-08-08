@@ -2,13 +2,13 @@
 
 **Thanks for checking out my GitHub profile!**
 
-## About Me 😄
+## About Me   😄
 
 I am a recent Computer Science graduate and new software engineer, currently looking for software development work in the Austin, TX area, and/or remote work. I primarily focus on back-end development, but also enjoy software design and front-end development.
 
 ## Current Projects
 - I am currently working on building a front-end graphical user interface for the CountingCards game that I made. I am working in React Native and Javascript, attempting to run on mobile devices, and connecting the React code to my C++ backend linked above.
-- 
+
 ## Repositories of mine to check out:
 
 - [Counting Cards](https://github.com/gaberull/CountingCards) A blackjack strategy and card counting game with lots of fun features. This was a personal project, completed by myself.
