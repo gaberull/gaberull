@@ -7,7 +7,7 @@
 I am a recent Computer Science graduate and new software engineer, currently looking for software development work in the Austin, TX area, and/or remote work. I primarily focus on back-end development, but also enjoy software design and front-end development.
 
 ## Current Projects
-- front-end graphical user interface for the CountingCards 
+- **Front-end graphical user interface for the CountingCards**
   - I am currently working on building the front-end for a blackjack game that I made. 
   - I am working in React Native and Javascript
   - Attempting to run on mobile devices as well as a freestanding computer app
