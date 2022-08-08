@@ -2,6 +2,8 @@
 
 **Thanks for checking out my GitHub profile!**
 
+## About Me 😄
+
 I am a recent Computer Science graduate and new software engineer, currently looking for software development work in the Austin, TX area, and/or remote work. I primarily focus on back-end development, but also enjoy software design and front-end development.
 
 ## Current Projects
