@@ -23,7 +23,7 @@ I am a recent Computer Science graduate and new software engineer, currently loo
 - **Lost and Found Database, Website, and Android Application Prototype** for the University of Oklahoma
   - This was my OU Capstone project and the repository is currently private, due to some private keys being hard-coded into the code by a classmate of mine. 
   - This project had a large number of contributors, of which I provided the 2nd highest number of commits. 
-  - If you would like to view this project, please ask me to add you as a contributor, and I will be happy to do so.
+  - ***If you would like to view this project, please ask me to add you as a contributor, and I will be happy to do so!***
 
 ### School Assignment Respositories:
 
