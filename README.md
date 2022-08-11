@@ -17,11 +17,11 @@ I am a recent Computer Science graduate and new software engineer, currently loo
   - My most recent project! A blackjack strategy and card counting game with lots of fun features. 
   - This was a personal project. 100% of work so far has been done by me. 
   - The game is playable, and is currently in the stages of being optimized. It's a lot of fun!
-- [Pet Awesome Promotional Email Template](https://github.com/gaberull/gaberull.github.io) 
+- [Pet Awesome Promotional Email Template](https://github.com/gaberull/gaberull.github.io)  🐕
   - Some professional HTML, CSS work that I was contracted to do for Pet-Awesome Pet Products, an online retailer. The company is currently using my work, and having great success with it from what I've heard! 👍 
   - [Viewable HTML Email Template](https://gaberull.github.io) - Email template viewable in webpage format
 - [Super Sudoku](https://github.com/gaberull/SuperSudoku) A sudoku game with front-end and back-end development
-  - Project that I contributed to with a group of people. The goal was to design and add a front-end user interface to a backend Sudoku game
+  - Project that I contributed to with a group of people. The goal was to design and add a front-end user interface to a backend Sudoku game  
 - **Lost and Found Database, Website, and Android Application Prototype** for the University of Oklahoma
   - This was my OU Capstone project! **The repository is currently private**, due to some private keys being hard-coded into the files by a classmate of mine.  💩
   - This project had 7 teams, and a large number of contributors, of which I contributed the 2nd highest number of commits. 
