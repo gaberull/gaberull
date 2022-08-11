@@ -13,7 +13,7 @@ I am a recent Computer Science graduate and new software engineer, currently loo
 
 ## 😄 Check out some of my repositories :
 
-- [Counting Cards](https://github.com/gaberull/CountingCards) 
+- [Counting Cards](https://github.com/gaberull/CountingCards)     ♠️
   - My most recent project! A blackjack strategy and card counting game with lots of fun features. 
   - This was a personal project. 100% of work so far has been done by me. 
   - The game is playable, and is currently in the stages of being optimized. It's a lot of fun!
