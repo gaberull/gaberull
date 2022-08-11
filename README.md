@@ -47,7 +47,7 @@ I am a recent Computer Science graduate and new software engineer, currently loo
 
 - [Project 4](https://github.com/gaberull/project4) - Project written in Java for course at OU
 
-*I have several more, but I thought this list was long enough. If you want to see them, ask me!*
+*I have several more, but I thought this list was long enough. If you want to see them, ask me and I'll make them public!*
 
 <!--
 Complete list of emoji:
