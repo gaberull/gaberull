@@ -39,6 +39,7 @@ I am a recent Computer Science graduate and new software engineer, currently loo
 - [Project 2 - OpSys](https://github.com/gaberull/OpSysProject2) Written in C
 - [Project 1 - OpSys](https://github.com/gaberull/opSysProject1) Written in C
 - [Project4 Data Structures](https://github.com/gaberull/DataStructProject4) - One of the main projects for my Data Structures class at OU
+- [Project 4 - Prog. Structures & Abstractions](https://github.com/gaberull/project4) - Project written in Java for course at OU
 
 *I have several more, but I thought this list was long enough. If you want to see them, ask me!*
 
