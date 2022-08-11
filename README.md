@@ -23,7 +23,7 @@ I am a recent Computer Science graduate and new software engineer, currently loo
 - [Super Sudoku](https://github.com/gaberull/SuperSudoku) A sudoku game with front-end and back-end development
   - Project that I contributed to with a group of people. The goal was to design and add a front-end user interface to a backend Sudoku game
 - **Lost and Found Database, Website, and Android Application Prototype** for the University of Oklahoma
-  - This was my OU Capstone project! **The repository is currently private**, due to some private keys being hard-coded into the files by a classmate of mine. 
+  - This was my OU Capstone project! **The repository is currently private**, due to some private keys being hard-coded into the files by a classmate of mine.    :hankey:
   - This project had 7 teams, and a large number of contributors, of which I contributed the 2nd highest number of commits. 
   - ***If you would like to view this project, please ask me to add you as a contributor, and I will be happy to do so!***
 
@@ -42,6 +42,12 @@ I am a recent Computer Science graduate and new software engineer, currently loo
 *I have several more, but I thought this list was long enough. If you want to see them, ask me!*
 
 <!--
+Complete list of emoji:
+https://gist.github.com/rxaviers/7360908#file-gistfile1-md
+
+- :hankey:   poop emoji
+
+
 **gaberull/gaberull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -54,4 +60,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
