@@ -15,7 +15,7 @@ I am a recent Computer Science graduate and new software engineer, currently loo
 
 ## Repositories of mine to check out:
 
-- [Counting Cards](https://github.com/gaberull/CountingCards) A blackjack strategy and card counting game with lots of fun features. This was a personal project, completed by myself.
+- [Counting Cards](https://github.com/gaberull/CountingCards) My most recent project! A blackjack strategy and card counting game with lots of fun features. This was a personal project, completed by myself.
 - [Pet Awesome Promotional Email Template](https://github.com/gaberull/gaberull.github.io) Some professional HTML, CSS work that I did as contract work for Pet-Awesome Pet Products. The company is still using my work, and having great success with it from what I've heard.
   - [Viewable HTML Email Template](https://gaberull.github.io) Email template viewable in webpage format
 - [Super Sudoku](https://github.com/gaberull/SuperSudoku) A sudoku game with front-end and back-end development
