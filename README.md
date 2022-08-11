@@ -13,7 +13,7 @@ I am a recent Computer Science graduate and new software engineer, currently loo
   - I Plan to release it for iOS and Android as well as a freestanding computer app
   - My React and JavaScript code will connect to my backend C++ code
 
-## Repositories of mine to check out:
+## 😄 Check out some of my repositories :
 
 - [Counting Cards](https://github.com/gaberull/CountingCards) My most recent project! A blackjack strategy and card counting game with lots of fun features. This was a personal project, completed by myself.
 - [Pet Awesome Promotional Email Template](https://github.com/gaberull/gaberull.github.io) Some professional HTML, CSS work that I did as contract work for Pet-Awesome Pet Products. The company is still using my work, and having great success with it from what I've heard.
