@@ -10,7 +10,7 @@ I am a recent Computer Science graduate and new software engineer, currently loo
 
 - **Front-end and GUI for [CountingCards](https://github.com/gaberull/CountingCards) blackjack game**
   - I am working in React Native and Javascript
-  - Attempting to run on iOS and Android as well as a freestanding computer app
+  - I Plan to release it for iOS and Android as well as a freestanding computer app
   - My React and JavaScript code will connect to my backend C++ code
 
 ## Repositories of mine to check out:
