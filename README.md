@@ -32,7 +32,7 @@ I am a recent Computer Science graduate and new software engineer, currently loo
 
 *These repositories were never really meant to be shown off. I made these while I was learning git and completing various assignments at OU. They may or may not have README files with more information about them.*
 
-#### Operating Systems Repos:    :computer:
+#### :computer:  Operating Systems Repos:
 
 - [Project 4 - OpSys](https://github.com/gaberull/OpSysProject4) Written in C
 - [Project 3 - OpSys](https://github.com/gaberull/OpSysProject3) Written in C
