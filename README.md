@@ -32,14 +32,20 @@ I am a recent Computer Science graduate and new software engineer, currently loo
 
 *These repositories were never really meant to be shown off. I made these while I was learning git and completing various assignments at OU. They may or may not have README files with more information about them.*
 
-#### 💻  Operating Systems Course Repos:       
+💻  **Operating Systems Course:**
 
 - [Project 4 - OpSys](https://github.com/gaberull/OpSysProject4) Written in C
 - [Project 3 - OpSys](https://github.com/gaberull/OpSysProject3) Written in C
 - [Project 2 - OpSys](https://github.com/gaberull/OpSysProject2) Written in C
 - [Project 1 - OpSys](https://github.com/gaberull/opSysProject1) Written in C
+
+**Data Structures Course:** 
+
 - [Project4 Data Structures](https://github.com/gaberull/DataStructProject4) - One of the main projects for my Data Structures class at OU
-- [Project 4 - Prog. Structures & Abstractions](https://github.com/gaberull/project4) - Project written in Java for course at OU
+
+**Programming Structures and Abstractions Course:** 
+
+- [Project 4](https://github.com/gaberull/project4) - Project written in Java for course at OU
 
 *I have several more, but I thought this list was long enough. If you want to see them, ask me!*
 
