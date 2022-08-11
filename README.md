@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**Thanks for checking out my GitHub profile!**
+**Thanks for checking out my GitHub profile!**   👋
 
 ## About Me   😄
 
