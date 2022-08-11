@@ -8,18 +8,19 @@ I am a recent Computer Science graduate and new software engineer, currently loo
 
 ## Current Projects
 
-- **Front-end and GUI for [CountingCards](https://github.com/gaberull/CountingCards) blackjack game**
-  - I am working in React Native and Javascript
+- **[CountingCards](https://github.com/gaberull/CountingCards) blackjack game**
+  - Currently tweaking the backend game engine, and building the front-end and GUI for this fun blackjack and card counting game that I made.
+  - For the front-end, I am working in React Native and Javascript, back-end is written in C++.
   - I Plan to release it for iOS and Android as well as a freestanding computer app
-  - My React and JavaScript code will connect to my backend C++ code
 
 ## 😄 Check out some of my repositories :
 
 - [Counting Cards](https://github.com/gaberull/CountingCards) 
-  - My most recent project! A blackjack strategy and card counting game with lots of fun features. This was a personal project, completed by myself. 
-  - Written in C++
+  - My most recent project! A blackjack strategy and card counting game with lots of fun features. 
+  - This was a personal project. 100% of work so far has been done by me. 
+  - The game is playable, and is currently in the stages of being optimized. It's a lot of fun!
 - [Pet Awesome Promotional Email Template](https://github.com/gaberull/gaberull.github.io) 
-  - Some professional HTML, CSS work that I did as contract work for Pet-Awesome Pet Products. The company is still using my work, and having great success with it from what I've heard.
+  - Some professional HTML, CSS work that I was contracted to do for Pet-Awesome Pet Products, an online retailer. The company is currently using my work, and having great success with it from what I've heard! 🌱
   - [Viewable HTML Email Template](https://gaberull.github.io) - Email template viewable in webpage format
 - [Super Sudoku](https://github.com/gaberull/SuperSudoku) A sudoku game with front-end and back-end development
   - Project that I contributed to with a group of people. The goal was to design and add a front-end user interface to a backend Sudoku game
