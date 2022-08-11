@@ -26,12 +26,13 @@ I am a recent Computer Science graduate and new software engineer, currently loo
   - This was my OU Capstone project! **The repository is currently private**, due to some private keys being hard-coded into the files by a classmate of mine.    :hankey:
   - This project had 7 teams, and a large number of contributors, of which I contributed the 2nd highest number of commits. 
   - ***If you would like to view this project, please ask me to add you as a contributor, and I will be happy to do so!***
+:sunglasses:
 
-### School Assignment Respositories:
+### School Assignment Respositories:      :notebook_with_decorative_cover:
 
 *These repositories were never really meant to be shown off. I made these while I was learning git and completing various assignments at OU. They may or may not have README files with more information about them.*
 
-#### Operating Systems Repos:
+#### Operating Systems Repos:    :computer:
 
 - [Project 4 - OpSys](https://github.com/gaberull/OpSysProject4) Written in C
 - [Project 3 - OpSys](https://github.com/gaberull/OpSysProject3) Written in C
