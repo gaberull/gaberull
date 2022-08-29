@@ -2,7 +2,7 @@
 
 ## About Me   🙂
 
-I am a recent Computer Science graduate and new software engineer, currently looking for software development work in the Austin, TX area, and/or remote work. I primarily focus on back-end development, but also enjoy software design and front-end development.
+I am a recent Computer Science graduate and new software engineer, currently looking for software development work in the Austin, TX area, and/or remote work. I primarily focus on back-end development, but also enjoy software design and front-end development. I am experienced with parallel programming, data structures, algorithms, and mathematics. 
 
 ## Current Projects   📂
 
