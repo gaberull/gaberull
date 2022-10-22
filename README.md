@@ -2,23 +2,49 @@
 
 ## About Me   🙂
 
-I am a recent Computer Science graduate and new software engineer, currently looking for software development work in the Austin, TX area, and/or remote work. I primarily focus on back-end development, but also enjoy software design and front-end development. I am experienced with parallel programming, data structures, algorithms, and mathematics. 
+I am a new software engineer and recent Computer Science graduate, actively looking for software development work in the Austin, TX area, and/or remote work. I enjoy back-end development, cloud computing, SQL and relational database design/development, and front-end software design and development. I am experienced with parallel/GPU programming, data structures, algorithms, cloud-computing, client-server application development, and engineering mathematics. 
 
 ## Current Projects   📂
 
-- **[CountingCards](https://github.com/gaberull/CountingCards) blackjack game**
-  - Currently tweaking the backend game engine, and building the front-end and GUI for this fun blackjack and card counting game that I made.
-  - For the front-end, I am working in React Native and Javascript, back-end is written in C++.
-  - I Plan to release it for iOS and Android as well as a freestanding computer app
+### Web Application and Employee Database for Supreme Systems Inc.
+
+This application does the following:
+- Authenticates user and allows upload of excel document containing employee records for Supreme Systems Inc.
+- Uploads original excel file to Google Cloud Storage bucket organizes according to upload date
+- Parses employee data and converts file to CSV (with option to download)
+- Updates MySQL database of employees and marks non-existent employees as "inactive"
+- Displays employee records according to the following pre-defined queries:
+  - All employee records
+  - Active employees
+  - Inactive employees
+  - Employees with upcoming birthdays (with subcategories for varying lengths of time until birthday)
+
+####  Censored Demonstration of Supreme Systems Inc. Web Application
+
+- This version of the web application does not require the authentication that is built into the real web application
+- This demonstration censors sensitive info of real people, but performs SQL queries on the actual active database
+- **[Demonstration Link](https://boolsa.io/censored/)**
+
+*Note: This demo version of the web application does not yet have 100% of the functionality and styling that has been built into the real product*
+
+### PHP Emailer Script for Supreme Systems Inc.
+
+This Script is scheduled to run daily on GCP Compute Engine VM Instance 
+- Queries database of employee records and checks for upcoming employee birthdays within the next ~12 days (adjustable)
+- Sends out Notification email to employees' boss about upcoming birthdays, containing employee contact information
+  - Uses MailJet API calls for SMTP emailer
+  - Purpose of notification is to remind the boss to send out a birthday gift or letter
+- Updates database table specific to this notification process and marks said employee as "notified"
 
 ## 😄 Check out some of my repositories :
 
 - [Counting Cards](https://github.com/gaberull/CountingCards)     ♠️
-  - My most recent project! A blackjack strategy and card counting game with lots of fun features. 
+  - A blackjack strategy and educational card counting game with lots of fun features
   - This was a personal project. 100% of work so far has been done by me. 
   - The game is playable, and is currently in the stages of being optimized. It's a lot of fun!
 - [Pet Awesome Promotional Email Template](https://github.com/gaberull/gaberull.github.io)  🐕
-  - Some professional HTML, CSS work that I was contracted to do for Pet-Awesome Pet Products, an online retailer. The company is currently using my work, and having great success with it from what I've heard! 👍 
+  - Some professional HTML, CSS work that I was contracted to do for Pet-Awesome Pet Products, an online retailer
+  - The company is currently using my email template to contact social media influencers to ink product marketing deals, and having great success with it from what I've heard! 👍 
   - [Viewable HTML Email Template](https://gaberull.github.io) - Email template viewable in webpage format
 - [Super Sudoku](https://github.com/gaberull/SuperSudoku) A sudoku game with front-end and back-end development
   - Project that I contributed to with a group of people. The goal was to design and add a front-end user interface to a backend Sudoku game  
