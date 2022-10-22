@@ -6,11 +6,11 @@ I am a new software engineer and recent Computer Science graduate, actively look
 
 ## Current Projects   📂
 
-### Web Application and Employee Database for Supreme Systems Inc.
+### Database System and Web Application for Supreme Systems Inc.
 
 This application does the following:
-- Authenticates user and allows upload of excel document containing employee records for Supreme Systems Inc.
-- Uploads original excel file to Google Cloud Storage bucket organizes according to upload date
+- Authenticates web user and allows upload of excel document containing employee records for Supreme Systems Inc.
+- Uploads original excel file to Google Cloud Storage bucket and organizes files according to upload date
 - Parses employee data and converts file to CSV (with option to download)
 - Updates MySQL database of employees and marks non-existent employees as "inactive"
 - Displays employee records according to the following pre-defined queries:
@@ -21,7 +21,7 @@ This application does the following:
 
 ####  Censored Demonstration of Supreme Systems Inc. Web Application
 
-- This version of the web application does not require the authentication that is built into the real web application
+- This version of the web application does not require user authentication like the real web application
 - This demonstration censors sensitive info of real people, but performs SQL queries on the actual active database
 - **[Demonstration Link](https://boolsa.io/censored/)**
 
@@ -32,8 +32,8 @@ This application does the following:
 This Script is scheduled to run daily on GCP Compute Engine VM Instance 
 - Queries database of employee records and checks for upcoming employee birthdays within the next ~12 days (adjustable)
 - Sends out Notification email to employees' boss about upcoming birthdays, containing employee contact information
-  - Uses MailJet API calls for SMTP emailer
   - Purpose of notification is to remind the boss to send out a birthday gift or letter
+  - Makes MailJet API calls for sending SMTP emails
 - Updates database table specific to this notification process and marks said employee as "notified"
 
 ## 😄 Check out some of my repositories :
