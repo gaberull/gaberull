@@ -24,7 +24,7 @@ This application does the following:
 
 - This version of the web application does not require user authentication like the real web application
 - This demonstration censors sensitive info of real people, but performs SQL queries on the actual active database
-- **[Demonstration Link](https://boolsa.io/censored/)**
+- **[Working Demonstration (Censored)](https://boolsa.io/censored/)**
 
 *Note: This demo version of the web application does not yet have 100% of the functionality and styling that has been built into the real product*
 
