@@ -18,6 +18,7 @@ This application does the following:
   - Active employees
   - Inactive employees
   - Employees with upcoming birthdays (with subcategories for varying lengths of time until birthday)
+- GitHub repository is currently private until security precautions are completed
 
 ####  Censored Demonstration of Supreme Systems Inc. Web Application
 
