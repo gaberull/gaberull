@@ -29,7 +29,7 @@ This application does the following:
 
 ### PHP Emailer Script for Supreme Systems Inc.
 
-This Script is scheduled to run daily on GCP Compute Engine VM Instance 
+- Script is scheduled to run daily on GCP Compute Engine VM Instance 
 - Queries database of employee records and checks for upcoming employee birthdays within the next ~12 days (adjustable)
 - Sends out Notification email to employees' boss about upcoming birthdays, containing employee contact information
   - Purpose of notification is to remind the boss to send out a birthday gift or letter
