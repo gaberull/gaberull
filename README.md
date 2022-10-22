@@ -19,14 +19,8 @@ This application does the following:
   - Inactive employees
   - Employees with upcoming birthdays (with subcategories for varying lengths of time until birthday)
 - GitHub repository is currently private until security precautions are completed
-
-####  Censored Demonstration of Supreme Systems Inc. Web Application
-
-- This version of the web application does not require user authentication like the real web application
-- This demonstration censors sensitive info of real people, but performs SQL queries on the actual active database
-- **[Working Demonstration (Censored)](https://boolsa.io/censored/)**
-
-*Note: This demo version of the web application does not yet have 100% of the functionality and styling that has been built into the real product*
+- [Web Application](https://boolsa.io/index.php)
+  - Use username 'guest' and pw 'demo' to view censored demonstration 
 
 ### PHP Emailer Script for Supreme Systems Inc.
 
