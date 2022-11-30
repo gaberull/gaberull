@@ -8,6 +8,8 @@ I am a new software engineer and recent Computer Science graduate, actively look
 
 ### Database System and Web Application for Supreme Systems Inc.
 
+[Repository Link](https://github.com/gaberull/excel_gcp_mysql_webapp)
+
 This application does the following:
 - Authenticates web user and allows upload of excel document containing employee records for Supreme Systems Inc.
 - Uploads original excel file to Google Cloud Storage bucket and organizes files according to upload date
@@ -24,6 +26,7 @@ This application does the following:
 
 ### PHP Emailer Script for Supreme Systems Inc.
 
+- [Script Code (Link)](https://github.com/gaberull/excel_gcp_mysql_webapp/blob/3c4defd768c5851cd32df36d4df7bf158d745d55/emailer_script/bday_emailer.php)
 - Script is scheduled to run daily on GCP Compute Engine VM Instance 
 - Queries database of employee records and checks for upcoming employee birthdays within the next ~12 days (adjustable)
 - Sends out Notification email to employees' boss about upcoming birthdays, containing employee contact information
