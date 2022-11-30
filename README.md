@@ -19,7 +19,7 @@ This application does the following:
   - Inactive employees
   - Employees with upcoming birthdays (with subcategories for varying lengths of time until birthday)
 - GitHub repository is currently private until security precautions are completed
-- [Web Application](https://boolsa.io/index.php)
+- [Web Application](https://app.gabrielscott.io)
   - Use username 'guest' and pw 'demo' to view censored demonstration 
 
 ### PHP Emailer Script for Supreme Systems Inc.
