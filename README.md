@@ -21,7 +21,7 @@ This application does the following:
   - Inactive employees
   - Employees with upcoming birthdays (with subcategories for varying lengths of time until birthday)
 - GitHub repository is currently private until security precautions are completed
-- [Web Application](https://app.gabrielscott.io)
+- [Web Application in action!](https://app.gabrielscott.io)
   - Use username 'guest' and password 'demo' to view the app functioning with 'dummy' data populated 
 
 ### PHP Emailer Script for Supreme Systems Inc.
