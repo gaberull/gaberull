@@ -8,6 +8,12 @@ I am a new software engineer and recent Computer Science graduate, actively look
 
 ## Current Projects   📂
 
+### Personal Portfolio Website
+
+[Check it out!](https://gabrielscott.io)
+
+My new website shows off my projects, tells a bit about me, and offers the option to download my game and resume. It's still a work in progress!
+
 ### Database System and Web Application for Supreme Systems Inc.
 
 [Code Respository](https://github.com/gaberull/excel_gcp_mysql_webapp)
