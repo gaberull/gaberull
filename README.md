@@ -11,7 +11,7 @@ I am a new software engineer and recent Computer Science graduate, actively look
 
 ### Database System and Web Application for Supreme Systems Inc.
 
-[Repository Link](https://github.com/gaberull/excel_gcp_mysql_webapp)
+[Excel to Mysql Web Application](https://github.com/gaberull/excel_gcp_mysql_webapp)
 
 This application does the following:
 - Authenticates web user and allows upload of excel document containing employee records for Supreme Systems Inc.
@@ -23,9 +23,7 @@ This application does the following:
   - Active employees
   - Inactive employees
   - Employees with upcoming birthdays (with subcategories for varying lengths of time until birthday)
-- GitHub repository is currently private until security precautions are completed
 - [Web Application in action!](https://app.gabrielscott.io)
-  - Use username 'guest' and password 'demo' to view the app functioning with 'dummy' data populated 
 
 ### PHP Emailer Script for Supreme Systems Inc.
 
