@@ -6,7 +6,7 @@ GPG: 9650 D040 7B9D D98A 045B 60AA 5355 5A15 6240 9CE4
 
 I am a new software engineer and recent Computer Science graduate, actively looking for software development work in the Austin, TX area, and/or remote work. I enjoy back-end development, cloud computing, SQL and relational database design/development, and front-end software design and development. I am experienced with parallel/GPU programming, data structures, algorithms, cloud-computing, client-server application development, and engineering mathematics. 
 
-## Current Projects   📂
+## Recent Projects   📂
 
 ### Personal Portfolio Website
 
