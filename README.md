@@ -10,7 +10,7 @@ I am a new software engineer and recent Computer Science graduate, actively look
 
 ### Database System and Web Application for Supreme Systems Inc.
 
-[Excel to Mysql Web Application Repo](https://github.com/gaberull/excel_gcp_mysql_webapp)
+[Code Respository](https://github.com/gaberull/excel_gcp_mysql_webapp)
 
 [Web Application in action!](https://app.gabrielscott.io)
 
