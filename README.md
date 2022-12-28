@@ -1,3 +1,6 @@
+GPG Fingerprint:
+9650 D040 7B9D D98A 045B 60AA 5355 5A15 6240 9CE4
+
 **Thanks for checking out my GitHub profile!**   👋
 
 ## About Me   🙂
