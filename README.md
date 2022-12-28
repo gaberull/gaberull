@@ -1,5 +1,4 @@
-GPG Fingerprint:
-9650 D040 7B9D D98A 045B 60AA 5355 5A15 6240 9CE4
+GPG: 9650 D040 7B9D D98A 045B 60AA 5355 5A15 6240 9CE4
 
 **Thanks for checking out my GitHub profile!**   👋
 
@@ -11,7 +10,8 @@ I am a new software engineer and recent Computer Science graduate, actively look
 
 ### Database System and Web Application for Supreme Systems Inc.
 
-[Excel to Mysql Web Application](https://github.com/gaberull/excel_gcp_mysql_webapp)
+[Excel to Mysql Web Application Repo](https://github.com/gaberull/excel_gcp_mysql_webapp)
+[Web Application in action!](https://app.gabrielscott.io)
 
 This application does the following:
 - Authenticates web user and allows upload of excel document containing employee records for Supreme Systems Inc.
@@ -23,7 +23,6 @@ This application does the following:
   - Active employees
   - Inactive employees
   - Employees with upcoming birthdays (with subcategories for varying lengths of time until birthday)
-- [Web Application in action!](https://app.gabrielscott.io)
 
 ### PHP Emailer Script for Supreme Systems Inc.
 
